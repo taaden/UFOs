@@ -19,8 +19,9 @@
      in the filter search,and with this we have eleven(11) results.
      ![image](https://user-images.githubusercontent.com/64270455/196016999-5003d1c0-8c5a-4eed-b4cd-1a8560ccba6d.png)
   #### Summary
-      one drawback of this design is the lack of standardization of the shape of the UFOs sightings, there were eleven sightings
-      that were discribed as "unknown" but a good look at the comments showed they could have been discribed as lighting or as something else.
+      one drawback of this design is the lack of standardization of the shape of the UFOs sightings, there were 
+      eleven sightings that were discribed as "unknown" but a good look at the comments showed they could have been 
+      discribed as lighting or as something else.
       ![image](https://user-images.githubusercontent.com/64270455/196017768-7c95515e-8424-4294-9c03-d110b1835362.png)
 
   #### Recommendation
