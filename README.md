@@ -9,3 +9,7 @@
    * We could also analysis the UFOs sightings by filtering with the city, this we do by typing the city name (San Diego)
      in the Enter a City of the filter search
      ![image](https://user-images.githubusercontent.com/64270455/196015531-84926255-44eb-4286-8605-d076a7308adf.png)
+   * We could analyze UFO sightings according states by typing the state in mind ("ca") in the Enter a State of the filter search
+     there are thirty(30) resluts for "ca".
+     ![image](https://user-images.githubusercontent.com/64270455/196016300-63dba2ee-16fc-42aa-abc8-e771559ae1f5.png)
+
